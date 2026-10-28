@@ -1,0 +1,541 @@
+{
+  "document": "caps-mathematics-senior-phase-2011",
+  "grade": "8",
+  "term": 1,
+  "topic": "1.1",
+  "pages": [
+    75,
+    76,
+    77
+  ],
+  "furniture": [
+    "3.3.2 Clarification of content for Grade 8",
+    "GRADE 8 – TERM 1",
+    "6 hours"
+  ],
+  "concepts": [
+    {
+      "heading": "Mental calculations",
+      "statements": [
+        {
+          "id": "c0ac8025-ae3e-4d56-97bd-210764686eb9",
+          "code": "8/1.1/c01",
+          "label": "Revise:",
+          "revise": true,
+          "text": "Multiplication of whole numbers to at least 12 x 12",
+          "page": 75
+        }
+      ]
+    },
+    {
+      "heading": "Ordering and comparing whole numbers",
+      "statements": [
+        {
+          "id": "039aa648-a497-4c16-9c62-c197426b7f0b",
+          "code": "8/1.1/c02",
+          "revise": true,
+          "text": "Revise Prime numbers to at least 100",
+          "page": 75
+        }
+      ]
+    },
+    {
+      "heading": "Properties of whole numbers",
+      "statements": [
+        {
+          "id": "aa7c8aeb-0a5b-481e-807b-fb5c9bb7d18a",
+          "code": "8/1.1/c03",
+          "label": "Revise:",
+          "revise": true,
+          "text": "The commutative; associative; distributive properties of whole numbers",
+          "page": 75
+        },
+        {
+          "id": "e4d8b92c-f3ba-4c8b-897b-143fcd94bde7",
+          "code": "8/1.1/c04",
+          "label": "Revise:",
+          "revise": true,
+          "text": "0 in terms of its additive property (identity element for addition)",
+          "page": 75
+        },
+        {
+          "id": "ebd5949b-f64b-4333-bab2-bfbbaaeb01a7",
+          "code": "8/1.1/c05",
+          "label": "Revise:",
+          "revise": true,
+          "text": "1 in terms of its multiplicative property (identify element for multiplication)",
+          "page": 75,
+          "note": "\"identify element\" is printed so; \"identity element\" is meant."
+        },
+        {
+          "id": "717a97f0-adbd-42ef-a1d7-c89a15a6f60e",
+          "code": "8/1.1/c06",
+          "label": "Revise:",
+          "revise": true,
+          "text": "Recognise the division property of 0, whereby any number divided by 0 is undefined",
+          "page": 75
+        }
+      ]
+    },
+    {
+      "heading": "Calculations using whole numbers",
+      "statements": [
+        {
+          "id": "4da8ef5c-7400-4ad1-9f9f-ced05640c02c",
+          "code": "8/1.1/c07",
+          "label": "Revise:",
+          "revise": true,
+          "text": "Calculations using all four operations on whole numbers, estimating and using calculators where appropriate",
+          "page": 76
+        }
+      ]
+    },
+    {
+      "heading": "Calculation techniques",
+      "statements": [
+        {
+          "id": "688c408d-ed80-4904-8012-8c2c0544da10",
+          "code": "8/1.1/c08",
+          "text": "Use a range of strategies to perform and check written and mental calculations with whole numbers including:",
+          "page": 76,
+          "children": [
+            {
+              "id": "dbfe6aac-0219-4682-8cc0-e05995962ed6",
+              "code": "8/1.1/c09",
+              "text": "estimation",
+              "page": 76
+            },
+            {
+              "id": "ded7ae6a-0f69-4a7f-aa4e-4eb279646e9f",
+              "code": "8/1.1/c10",
+              "text": "adding, subtracting and multiplying in columns",
+              "page": 76
+            },
+            {
+              "id": "4454946b-a645-49d3-86cc-d97d2b6bb253",
+              "code": "8/1.1/c11",
+              "text": "long division",
+              "page": 76
+            },
+            {
+              "id": "2f0bde89-5788-4032-95e5-dd74f5c83f04",
+              "code": "8/1.1/c12",
+              "text": "rounding off and compensating",
+              "page": 76
+            },
+            {
+              "id": "af534848-d346-49c3-b5f1-b75a36ea6527",
+              "code": "8/1.1/c13",
+              "text": "using a calculator",
+              "page": 76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Multiples and factors",
+      "statements": [
+        {
+          "id": "5934205a-1b66-482f-87ec-7b4300f1a2f8",
+          "code": "8/1.1/c14",
+          "label": "Revise:",
+          "revise": true,
+          "text": "Prime factors of numbers to at least 3-digit whole numbers",
+          "page": 76
+        },
+        {
+          "id": "72b3654e-7d68-4aa4-8869-5aab83ece610",
+          "code": "8/1.1/c15",
+          "label": "Revise:",
+          "revise": true,
+          "text": "LCM and HCF of numbers to at least 3-digit whole numbers, by inspection or factorisation",
+          "page": 76
+        }
+      ]
+    },
+    {
+      "heading": "Solving problems",
+      "statements": [
+        {
+          "id": "2a9cfba0-b980-4299-817e-3d71a36d9fa0",
+          "code": "8/1.1/c16",
+          "text": "Solve problems involving whole numbers, including:",
+          "page": 77,
+          "children": [
+            {
+              "id": "2c136862-b288-4ce4-95e5-26aabe60ad83",
+              "code": "8/1.1/c17",
+              "text": "Comparing two or more quantities of the same kind (ratio)",
+              "page": 77
+            },
+            {
+              "id": "178186d4-491d-4a5b-9cc2-ce58ed6d4a0d",
+              "code": "8/1.1/c18",
+              "text": "Comparing two quantities of different kinds (rate)",
+              "page": 77
+            },
+            {
+              "id": "ae153ed5-31e1-4d81-a2f6-662fb95222ad",
+              "code": "8/1.1/c19",
+              "text": "Sharing in a given ratio where the whole is given",
+              "page": 77
+            },
+            {
+              "id": "3f2ac844-0f9a-45a9-8fa4-1c24dd24f566",
+              "code": "8/1.1/c20",
+              "text": "Increasing or decreasing of a number in a given ratio",
+              "page": 77
+            }
+          ]
+        },
+        {
+          "id": "5e27824d-0fa7-42e7-9dcb-758b0002a3c8",
+          "code": "8/1.1/c21",
+          "text": "Solve problems that involve whole numbers, percentages and decimal fractions in financial contexts such as:",
+          "page": 77,
+          "children": [
+            {
+              "id": "93172cfc-5433-4f93-acaa-dd36d8cdea6d",
+              "code": "8/1.1/c22",
+              "text": "Profit, loss, discount and VAT",
+              "page": 77
+            },
+            {
+              "id": "2b995d46-6746-40ba-a713-19d4dd646ae8",
+              "code": "8/1.1/c23",
+              "text": "Budgets",
+              "page": 77
+            },
+            {
+              "id": "e9244e07-5b24-49a7-9671-7025a5cecf65",
+              "code": "8/1.1/c24",
+              "text": "Accounts",
+              "page": 77
+            },
+            {
+              "id": "4f5f2332-e1c9-4bf3-969e-9356dba396c0",
+              "code": "8/1.1/c25",
+              "text": "Loans",
+              "page": 77
+            },
+            {
+              "id": "bb280e7a-3071-4227-915f-a0fca13956a4",
+              "code": "8/1.1/c26",
+              "text": "Simple interest",
+              "page": 77
+            },
+            {
+              "id": "22176e3b-8824-41da-88a3-8f408fe9e4ab",
+              "code": "8/1.1/c27",
+              "text": "Hire Purchase",
+              "page": 77
+            },
+            {
+              "id": "80b0f628-8364-4828-aa0c-9f29d97b6efa",
+              "code": "8/1.1/c28",
+              "text": "Exchange rates",
+              "page": 77
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "What is different to Grade 7?",
+      "statements": [
+        {
+          "id": "0a62f49e-94fa-4fe4-89ab-88bb5f238a4f",
+          "code": "8/1.1/n01",
+          "type": "progression",
+          "text": "In Grade 8 learners consolidate number knowledge and calculation techniques for whole numbers, developed in the Intermediate Phase and Grade 7",
+          "page": 75
+        }
+      ]
+    },
+    {
+      "heading": "Properties of whole numbers",
+      "statements": [
+        {
+          "id": "229e09af-73a5-4ab7-b9cd-8f987f22ee90",
+          "code": "8/1.1/n02",
+          "text": "Revising the properties of whole numbers should be the starting point for work with whole numbers. The properties of numbers should provide the motivation for why and how operations with numbers work.",
+          "page": 75
+        },
+        {
+          "id": "0c80b27f-c694-4699-a1aa-390e5c0ea554",
+          "code": "8/1.1/n03",
+          "text": "When learners are introduced to new numbers, such as integers for example, they can again explore how the properties of numbers work for the new set of numbers.",
+          "page": 75
+        },
+        {
+          "id": "85d3557a-1701-4b61-ac1d-7bdb8c48c34f",
+          "code": "8/1.1/n04",
+          "text": "Learners also have to apply the properties of numbers in algebra, when they work with variables in place of numbers.",
+          "page": 75
+        },
+        {
+          "id": "f5d1f14c-6b75-43bd-a0a1-9fc6d68be830",
+          "code": "8/1.1/n05",
+          "text": "Learners should know and be able to use the following properties:",
+          "page": 75,
+          "children": [
+            {
+              "id": "b0ec8231-7df7-481c-9c09-5d563376bdfc",
+              "code": "8/1.1/n06",
+              "text": "The commutative property of addition and multiplication:",
+              "page": 75,
+              "children": [
+                {
+                  "id": "92257481-8ca8-4a61-b9f4-1c582779e03b",
+                  "code": "8/1.1/n07",
+                  "text": "a + b = b + a",
+                  "page": 75
+                },
+                {
+                  "id": "50657e6c-6f81-4424-abe9-4efd2f984fc0",
+                  "code": "8/1.1/n08",
+                  "text": "a x b = b x a",
+                  "page": 75
+                }
+              ]
+            },
+            {
+              "id": "52593444-1d47-4b39-ac79-a795b500df99",
+              "code": "8/1.1/n09",
+              "text": "The associative (grouping) property of addition and multiplication:",
+              "page": 75,
+              "children": [
+                {
+                  "id": "5fe29f12-8b4e-42bb-9742-024dcdc9626d",
+                  "code": "8/1.1/n10",
+                  "text": "(a + b) + c = a + (b + c)",
+                  "page": 75
+                },
+                {
+                  "id": "88377aab-930a-4962-b62a-1b0a805aaddd",
+                  "code": "8/1.1/n11",
+                  "text": "(a x b) x c = a x (b x c)",
+                  "page": 75
+                }
+              ]
+            },
+            {
+              "id": "90ae7bba-4cc0-4def-add2-dc2c6469fe9d",
+              "code": "8/1.1/n12",
+              "text": "The distributive property of multiplication over addition and subtraction:",
+              "page": 75,
+              "children": [
+                {
+                  "id": "b5591f4b-e72a-489f-9219-bf8ce647cc4e",
+                  "code": "8/1.1/n13",
+                  "text": "a(b + c) = (a x b) + (a x c)",
+                  "page": 75
+                },
+                {
+                  "id": "43affecc-822b-4826-ab52-a689dcf679d9",
+                  "code": "8/1.1/n14",
+                  "text": "a(b – c) = (a x b) – (a x c)",
+                  "page": 75
+                }
+              ]
+            },
+            {
+              "id": "f5905a74-6cb7-4626-a48c-f814ebad64a4",
+              "code": "8/1.1/n15",
+              "text": "Addition and subtraction as inverse operations",
+              "page": 75
+            },
+            {
+              "id": "6d31d407-325e-4c62-bc16-b76255c93f14",
+              "code": "8/1.1/n16",
+              "text": "Multiplication and division as inverse operations",
+              "page": 75
+            },
+            {
+              "id": "1045f7ca-c009-4102-bd17-2683e653bb31",
+              "code": "8/1.1/n17",
+              "text": "0 is the identity element for addition: t + 0 = t",
+              "page": 75
+            },
+            {
+              "id": "be7ec1aa-8609-4671-9575-394a4bc9c636",
+              "code": "8/1.1/n18",
+              "text": "1 is the identity element for multiplication: t x 1 = t",
+              "page": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Illustrating the properties with whole numbers",
+      "statements": [
+        {
+          "id": "ac74fffe-5d57-4f60-b1ac-ff4335ec9b9c",
+          "code": "8/1.1/n19",
+          "type": "exemplar",
+          "text": "a) 33 + 99 = 99 + 33 = 132",
+          "page": 76
+        },
+        {
+          "id": "52a8b555-d197-4d22-b113-bdfbf9ffb51a",
+          "code": "8/1.1/n20",
+          "type": "exemplar",
+          "text": "b) 51 + (19 + 46) = (51 + 19) + 46 = 116",
+          "page": 76
+        },
+        {
+          "id": "4de76b52-0f12-4c59-a2bb-b8795dcf4fe8",
+          "code": "8/1.1/n21",
+          "type": "exemplar",
+          "text": "c) 4(12 + 9) = (4 x 12) + (4 x 9) = 48 + 36 = 84",
+          "page": 76
+        },
+        {
+          "id": "8e292abd-190a-43e9-bd83-60ace184c0ba",
+          "code": "8/1.1/n22",
+          "type": "exemplar",
+          "text": "d) (9 x 64) + (9 x 36) = 9(64 + 36) = 9 x 100 = 900",
+          "page": 76
+        },
+        {
+          "id": "dcc543c9-c1e8-4bfa-ba0c-54c66b16fe45",
+          "code": "8/1.1/n23",
+          "type": "exemplar",
+          "text": "e) if 33 + 99 = 132, then 132 – 99 = 33 ad 132 – 33 = 99",
+          "page": 76,
+          "note": "\"ad\" is printed so; \"and\" is meant."
+        },
+        {
+          "id": "2936e6fe-c17f-4875-a7d3-61c06821de8a",
+          "code": "8/1.1/n24",
+          "type": "exemplar",
+          "text": "f) if 20 x 5 = 110, then 110 ÷ 20 = 5 and 110 ÷ 5 =20",
+          "page": 76,
+          "note": "Printed so, but 20 x 5 = 100: the example should read 100 throughout."
+        }
+      ]
+    },
+    {
+      "heading": "Calculations with whole numbers",
+      "statements": [
+        {
+          "id": "25721c19-6c4b-4d31-b12e-a6f51395c6e4",
+          "code": "8/1.1/n25",
+          "text": "Learners should continue to do context free calculations and solve problems in contexts using whole numbers, integers and fractions",
+          "page": 76
+        },
+        {
+          "id": "0cef65c1-578b-4df6-ac38-5a890251d52d",
+          "code": "8/1.1/n26",
+          "text": "Learners should become more confident in and more independent at mathematics, if they have techniques",
+          "page": 76,
+          "children": [
+            {
+              "id": "9cb4081f-cf9d-4989-926a-8fdd327142ac",
+              "code": "8/1.1/n27",
+              "text": "to check their solutions themselves, e.g. using inverse operations; using calculators",
+              "page": 76
+            },
+            {
+              "id": "b72c9f2f-7cd6-4b67-998b-8821a646159c",
+              "code": "8/1.1/n28",
+              "text": "to judge the reasonableness of their solutions e.g. estimate by rounding off; estimate by doubling or halving;",
+              "page": 76
+            }
+          ]
+        },
+        {
+          "id": "5abf40f4-47f5-410f-b7ac-5f3a5c6ef249",
+          "code": "8/1.1/n29",
+          "text": "Adding, subtracting and multiplying in columns, and long division, should only be used to practice number facts and calculation techniques, and hence should be done with familiar and smaller number ranges. For big and unwieldy calculations, learners should be encouraged to use a calculator.",
+          "page": 76
+        }
+      ]
+    },
+    {
+      "heading": "Multiples and factors",
+      "statements": [
+        {
+          "id": "ce184858-dd5b-48f7-ab2e-f1b8b017e9dd",
+          "code": "8/1.1/n30",
+          "text": "Learners should continue practising finding multiples and factors of whole numbers. This is especially important when learners do calculations with fractions. They use this knowledge to find the LCM for denominators that are different from each other, and also when they simplify fractions or have to find equivalent fractions.",
+          "page": 76
+        },
+        {
+          "id": "7ef15190-2daf-4084-a457-b222b969ac14",
+          "code": "8/1.1/n31",
+          "text": "Factorising whole numbers lays the foundation for factorisation of algebraic expressions.",
+          "page": 76
+        },
+        {
+          "id": "b15f76a8-578e-447e-8fd1-c3c2f0930dd2",
+          "code": "8/1.1/n32",
+          "text": "Using the definition of prime numbers, emphasise that 1 is not classified as a prime number",
+          "page": 76
+        }
+      ]
+    },
+    {
+      "heading": "Examples",
+      "statements": [
+        {
+          "id": "a991bd18-e6c6-4f31-a0af-c1bd40a06b97",
+          "code": "8/1.1/n33",
+          "type": "exemplar",
+          "text": "a) LCM of 6 and 18 is 18\nLCM of 6 and 7 is 42",
+          "page": 77
+        },
+        {
+          "id": "2403b312-1d66-49b2-8fa5-76a295359efd",
+          "code": "8/1.1/n34",
+          "type": "exemplar",
+          "text": "b) The factors of 24 are 1, 2, 3, 4, 6,12 and 24 by inspection.\nAnd, the prime factors of 24 are 2 and 3",
+          "page": 77
+        },
+        {
+          "id": "eaeaf7be-90e0-47b8-8870-f7a43b91820b",
+          "code": "8/1.1/n35",
+          "type": "exemplar",
+          "text": "c) The factors of 140 are 1, 2, 5, 7, 10, 14, 28, 35, 70 and 140",
+          "page": 77,
+          "note": "Printed so, but the list leaves out 4 and 20."
+        },
+        {
+          "id": "52c86ee8-a0a9-43dc-8e24-83aa4db528e8",
+          "code": "8/1.1/n36",
+          "type": "exemplar",
+          "text": "d) Determine the HCF of 120; 300 and 900.\nLearners do this by finding the prime factors of the numbers first.\n120 = 5 x 3 x 2³ Initially learners may write this as: 5 x 3 x 2 x 2 x 2\n300 = 5² x 3 x 2²\n900 = 5² x 3² x 2³\nHCF = 5 x 3 x 2² = 60 (Multiply the common prime factors of the three numbers)",
+          "page": 77,
+          "note": "900 is printed as 5² x 3² x 2³, which is 1800; 900 = 5² x 3² x 2². The HCF is right."
+        }
+      ]
+    },
+    {
+      "heading": "Solving problems",
+      "statements": [
+        {
+          "id": "df8eab4f-286e-4cc6-b782-e851fd177c29",
+          "code": "8/1.1/n37",
+          "text": "Solving problems in contexts should take account of the number ranges learners are familiar with.",
+          "page": 77
+        },
+        {
+          "id": "f1f7b16c-6034-4307-ae48-502942308cec",
+          "code": "8/1.1/n38",
+          "text": "Contexts involving ratio and rate should include speed, distance and time problems.",
+          "page": 77
+        },
+        {
+          "id": "af73f397-bd35-4298-b010-431a04b0c66e",
+          "code": "8/1.1/n39",
+          "text": "In financial contexts, learners are not expected to use formulae for calculating simple interest.",
+          "page": 77
+        }
+      ]
+    }
+  ]
+}

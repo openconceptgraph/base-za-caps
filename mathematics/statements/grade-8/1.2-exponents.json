@@ -1,0 +1,637 @@
+{
+  "document": "caps-mathematics-senior-phase-2011",
+  "grade": "8",
+  "term": 1,
+  "topic": "1.2",
+  "pages": [
+    81,
+    82,
+    83,
+    84
+  ],
+  "furniture": [
+    "Total time for exponents:",
+    "9 hours"
+  ],
+  "concepts": [
+    {
+      "heading": "Mental calculations",
+      "statements": [
+        {
+          "id": "ff8e5562-cc88-4d87-bbb2-3792d4820dfe",
+          "code": "8/1.2/c01",
+          "label": "Revise:",
+          "revise": true,
+          "text": "Squares to at least 12² and their square roots",
+          "page": 81,
+          "eyeChecked": true
+        },
+        {
+          "id": "ab326168-a66f-435f-b37a-8b740231eac1",
+          "code": "8/1.2/c02",
+          "label": "Revise:",
+          "revise": true,
+          "text": "Cubes to at least 6³ and their cube roots",
+          "page": 81,
+          "eyeChecked": true
+        }
+      ]
+    },
+    {
+      "heading": "Comparing and representing numbers in exponential form",
+      "statements": [
+        {
+          "id": "09ba473b-c71b-43da-a276-247a5cb81a96",
+          "code": "8/1.2/c03",
+          "revise": true,
+          "text": "Revise compare and represent whole numbers in exponential form",
+          "page": 81
+        },
+        {
+          "id": "636fa336-c44f-4432-a777-33a9b2af7936",
+          "code": "8/1.2/c04",
+          "text": "Compare and represent integers in exponential form",
+          "page": 81
+        },
+        {
+          "id": "3d24086f-cc54-480b-938a-e482447aef7a",
+          "code": "8/1.2/c05",
+          "text": "Compare and represent numbers in scientific notation, limited to positive exponents",
+          "page": 81
+        }
+      ]
+    },
+    {
+      "heading": "Calculations using numbers in exponential form",
+      "statements": [
+        {
+          "id": "8068bbbc-8659-424c-b120-8fcf883ea775",
+          "code": "8/1.2/c06",
+          "text": "Establish general laws of exponents, limited to:",
+          "page": 82,
+          "children": [
+            {
+              "id": "235cf622-c05b-4739-b618-f3be81e968a8",
+              "code": "8/1.2/c07",
+              "text": "natural number exponents",
+              "page": 82,
+              "children": [
+                {
+                  "id": "49c0e5f3-acab-4f39-af57-8634c04a24d4",
+                  "code": "8/1.2/c08",
+                  "text": "aᵐ x aⁿ = aᵐ⁺ⁿ",
+                  "page": 82,
+                  "eyeChecked": true
+                },
+                {
+                  "id": "fbc84f15-8374-466f-abec-9aaec7b013f3",
+                  "code": "8/1.2/c09",
+                  "text": "aᵐ ÷ aⁿ = aᵐ⁻ⁿ, if m > n",
+                  "page": 82
+                },
+                {
+                  "id": "17308bbe-8d2c-452c-9114-080514d00a25",
+                  "code": "8/1.2/c10",
+                  "text": "(aᵐ)ⁿ = aᵐ ˣ ⁿ",
+                  "page": 82
+                },
+                {
+                  "id": "d6c4de2d-9f1a-4d19-82df-5d47ab312194",
+                  "code": "8/1.2/c11",
+                  "text": "(a x t)ⁿ = aⁿ x tⁿ",
+                  "page": 82
+                },
+                {
+                  "id": "851b40b9-347d-425a-b36d-26c5bc4d25f0",
+                  "code": "8/1.2/c12",
+                  "text": "a⁰ = 1",
+                  "page": 82
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "eab41f3b-9267-4f49-a875-96fb4402df6b",
+          "code": "8/1.2/c13",
+          "text": "Recognize and use the appropriate laws of operations using numbers involving exponents and square and cube roots",
+          "page": 82
+        },
+        {
+          "id": "fe262ac7-adf9-46d3-9f60-97e499b49bfb",
+          "code": "8/1.2/c14",
+          "text": "Perform calculations involving all four operations with numbers that involve squares, cubes, square roots and cube roots of integers",
+          "page": 82
+        },
+        {
+          "id": "6d91d01a-474b-427a-a415-7613c21c5ed6",
+          "code": "8/1.2/c15",
+          "text": "Calculate the squares, cubes, square roots and cube roots of rational numbers",
+          "page": 82
+        }
+      ]
+    },
+    {
+      "heading": "Solving problems",
+      "statements": [
+        {
+          "id": "0ec4be68-05b4-486e-83fe-f4993e14889e",
+          "code": "8/1.2/c16",
+          "text": "Solve problems in contexts involving numbers in exponential form",
+          "page": 82
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "What is different to Grade 7?",
+      "statements": [
+        {
+          "id": "ce993cb1-384e-4c1a-9a9f-d3be5b7fd551",
+          "code": "8/1.2/n01",
+          "type": "progression",
+          "text": "Integers and rational numbers in exponential form",
+          "page": 81
+        },
+        {
+          "id": "eb0b9438-558f-4580-b69f-554d2c20dc54",
+          "code": "8/1.2/n02",
+          "type": "progression",
+          "text": "Scientific notation of numbers",
+          "page": 81
+        }
+      ]
+    },
+    {
+      "heading": "Comparing and representing numbers in exponential form",
+      "statements": [
+        {
+          "id": "a7f77d9f-7202-4835-85a8-f031a415eb1c",
+          "code": "8/1.2/n03",
+          "text": "Learners need to understand that in the exponential form aᵇ, the number is read as ‘a to the power of b, where a is called the base and b is called the exponent or index and b indicates the number of factors that are multiplied.",
+          "page": 81,
+          "note": "The opening quotation mark has no closing one in the original.",
+          "children": [
+            {
+              "id": "b15e2f7d-6d61-4995-8b55-ff14b740abff",
+              "code": "8/1.2/n04",
+              "type": "exemplar",
+              "label": "Example:",
+              "text": "a³ = a x a x a; a⁵ = a x a x a x a x a",
+              "page": 81
+            }
+          ]
+        },
+        {
+          "id": "0eeda7e8-9b6b-45bd-9f9d-59b1547b4be8",
+          "code": "8/1.2/n05",
+          "text": "Learners can represent any number in exponential form, without needing to compute the value. Example: 50 x 50 x 50 x 50 x 50 x 50 x 50 = 50⁷",
+          "page": 81
+        },
+        {
+          "id": "f97a631f-93eb-42b9-9fd2-7af4507aa567",
+          "code": "8/1.2/n06",
+          "text": "Make sure learners understand that square roots and cube roots are the inverse operations of squaring and cubing numbers. Example: 3² = 9 therefore √9 = 3",
+          "page": 81
+        },
+        {
+          "id": "fc93d7aa-8706-43c9-a8b2-29b53ee3d4cb",
+          "code": "8/1.2/n07",
+          "text": "Make sure learners understand that any number raised to the power 1 is equal to that particular number",
+          "page": 81,
+          "children": [
+            {
+              "id": "e4a0f825-6b0a-4585-b64e-9260996a47b5",
+              "code": "8/1.2/n08",
+              "type": "exemplar",
+              "label": "Example:",
+              "text": "m¹ = m",
+              "page": 81
+            }
+          ]
+        },
+        {
+          "id": "d45fd214-8361-4401-b906-831632cb6aa7",
+          "code": "8/1.2/n09",
+          "text": "Using patterns and their knowledge of multiplication with integers, learners should anticipate the resultant sign of an integer raised to an odd or even power e.g. (–15)⁴ will be positive, while (–15)³ will be negative",
+          "page": 81
+        },
+        {
+          "id": "07d4b76f-5326-4a16-909a-2ffe43cbf4c9",
+          "code": "8/1.2/n10",
+          "text": "To avoid common misconceptions, emphasize the following",
+          "page": 81,
+          "children": [
+            {
+              "id": "97de174a-4106-4588-9d8a-7e92affc6e5c",
+              "code": "8/1.2/n11",
+              "text": "12² = 12 x 12 and not 12 x 2",
+              "page": 81
+            },
+            {
+              "id": "b6f8cb69-340b-4f63-b470-b7b01dd45651",
+              "code": "8/1.2/n12",
+              "text": "1³ means 1 x 1 x 1 and not 1 x 3",
+              "page": 81
+            },
+            {
+              "id": "6d7a33c6-5d3b-4f8f-b0bb-483584083b0b",
+              "code": "8/1.2/n13",
+              "text": "100¹ = 100",
+              "page": 81
+            },
+            {
+              "id": "ca578039-91b6-4593-ae51-de6e3f78185f",
+              "code": "8/1.2/n14",
+              "text": "√81 = 9 because 9² = 81",
+              "page": 81
+            },
+            {
+              "id": "0105f9cc-0368-4e9b-ba96-ed4f452267b6",
+              "code": "8/1.2/n15",
+              "text": "∛27 = 3 because 3³ = 27",
+              "page": 81
+            },
+            {
+              "id": "ee2bd383-ce1a-4e2c-8aa6-5fb33c53e627",
+              "code": "8/1.2/n16",
+              "text": "the square of 9 = 81, whereas the square root of 9 = 3",
+              "page": 81
+            }
+          ]
+        },
+        {
+          "id": "764b42b8-c415-4142-a6d0-b0ca509a3a1c",
+          "code": "8/1.2/n17",
+          "text": "Learners should use their knowledge of representing numbers in exponential form when simplifying and expanding algebraic expressions and solving algebraic equations.",
+          "page": 81
+        }
+      ]
+    },
+    {
+      "heading": "Laws of exponents",
+      "statements": [
+        {
+          "id": "213900ba-01af-4231-82b0-f3455cf4de8b",
+          "code": "8/1.2/n18",
+          "text": "The laws of exponents should be introduced through a range of numeric examples first, then variables can be used. In other words, the numbers are replaced with letters, but the rules work the same.",
+          "page": 82
+        },
+        {
+          "id": "328384ba-83d3-42a6-bce5-6cae77150d5e",
+          "code": "8/1.2/n19",
+          "text": "The following laws of exponents should be introduced, where m and n are natural numbers and a and t are not equal to 0:",
+          "page": 82,
+          "children": [
+            {
+              "id": "4f52e4ef-b59b-4350-b57b-8c9d810241d2",
+              "code": "8/1.2/n20",
+              "text": "aᵐ x aⁿ = aᵐ⁺ⁿ",
+              "page": 82,
+              "children": [
+                {
+                  "id": "cf2e785f-2813-4fca-aac0-3893ffa96626",
+                  "code": "8/1.2/n21",
+                  "type": "exemplar",
+                  "label": "Example",
+                  "text": "a) 2³ x 2⁴ = 2³⁺⁴ = 2⁷",
+                  "page": 82
+                },
+                {
+                  "id": "f3495bc6-a500-4692-a1cd-f17550bb7c57",
+                  "code": "8/1.2/n22",
+                  "type": "exemplar",
+                  "label": "Example",
+                  "text": "b) x³ x x⁴ = x³⁺⁴ = x⁷",
+                  "page": 82
+                }
+              ]
+            },
+            {
+              "id": "3c4ee2c1-3ca1-4462-8ba4-0d89e244c644",
+              "code": "8/1.2/n23",
+              "text": "aᵐ ÷ aⁿ = aᵐ⁻ⁿ if m >n",
+              "page": 82,
+              "children": [
+                {
+                  "id": "0bf013db-24b5-4c73-8ae5-09ea279ef4f1",
+                  "code": "8/1.2/n24",
+                  "type": "exemplar",
+                  "label": "Example:",
+                  "text": "a) 3⁵ ÷ 3² = 3³ = 27",
+                  "page": 82
+                },
+                {
+                  "id": "babe5da2-47bd-494d-83e1-13dbde7f042c",
+                  "code": "8/1.2/n25",
+                  "type": "exemplar",
+                  "label": "Example:",
+                  "text": "b) x⁵ ÷ x³ = x²",
+                  "page": 82
+                }
+              ]
+            },
+            {
+              "id": "61af0df2-a850-4902-aec1-491937a46ba9",
+              "code": "8/1.2/n26",
+              "text": "(aᵐ)ⁿ = aᵐⁿ",
+              "page": 82,
+              "children": [
+                {
+                  "id": "ba17ca31-c8c7-43bd-a0c4-6b762a19bbe9",
+                  "code": "8/1.2/n27",
+                  "type": "exemplar",
+                  "label": "Example:",
+                  "text": "a) (2³)² = 2⁶ = 64",
+                  "page": 82
+                },
+                {
+                  "id": "7f7ed003-b25e-4385-abf4-b161f84dd36b",
+                  "code": "8/1.2/n28",
+                  "type": "exemplar",
+                  "label": "Example:",
+                  "text": "b) (x³)² = x⁶",
+                  "page": 82
+                }
+              ]
+            },
+            {
+              "id": "78acc1f0-649a-4273-a546-f0958be1ca7c",
+              "code": "8/1.2/n29",
+              "text": "(a x t)ⁿ = aⁿ x tⁿ",
+              "page": 82,
+              "children": [
+                {
+                  "id": "87169b62-df91-4ed6-b696-1903f8459f1a",
+                  "code": "8/1.2/n30",
+                  "type": "exemplar",
+                  "label": "Example:",
+                  "text": "(3x²)³ = 3³. x⁶ = 27x⁶",
+                  "page": 82
+                }
+              ]
+            },
+            {
+              "id": "d17fc8c3-898e-44b7-927e-6c25c3390c2d",
+              "code": "8/1.2/n31",
+              "text": "a⁰ = 1",
+              "page": 82,
+              "children": [
+                {
+                  "id": "6bbfb787-f4f4-442d-84e4-7a693706f47a",
+                  "code": "8/1.2/n32",
+                  "type": "exemplar",
+                  "label": "Examples:",
+                  "text": "(37)⁰ = 1; (4x²)⁰ = 1;",
+                  "page": 82
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "db0334f7-207f-473b-b495-f35b66571c31",
+          "code": "8/1.2/n33",
+          "text": "Make sure learners understand these laws reading from both sides of the equal sign i.e. if the LHS = RHS, then the RHS = LHS.",
+          "page": 82
+        },
+        {
+          "id": "bc97ca70-7214-4666-97e3-2119171729dd",
+          "code": "8/1.2/n34",
+          "text": "The law a⁰ = 1 can be derived by using the law of exponents for division in a few examples. a⁴ ÷ a⁴ = (a x a x a x a)⁄(a x a x a x a) = 1 therefore a⁴⁻⁴ = a⁰ = 1",
+          "page": 82,
+          "eyeChecked": true,
+          "note": "Printed as a fraction; the brackets stand for its numerator and denominator."
+        },
+        {
+          "id": "93959061-03f1-456a-a141-7307948f98d0",
+          "code": "8/1.2/n35",
+          "text": "Learners should be able to use the laws of exponents in calculations and for solving simple exponential equations as well as expanding or simplifying algebraic expressions.",
+          "page": 82
+        },
+        {
+          "id": "3e8572aa-bc9e-435e-80d2-283f116dbbf1",
+          "code": "8/1.2/n36",
+          "text": "Look out for the following common misconceptions where:",
+          "page": 83,
+          "children": [
+            {
+              "id": "984df107-93a7-4ca5-bc67-e69712ba8db7",
+              "code": "8/1.2/n37",
+              "text": "learners multiply unlike bases and add the exponent.",
+              "page": 83,
+              "children": [
+                {
+                  "id": "426dec14-a96a-46d5-8009-0d430befff22",
+                  "code": "8/1.2/n38",
+                  "type": "exemplar",
+                  "label": "Example:",
+                  "text": "xᵐ x yⁿ = (xy)ᵐ⁺ⁿ",
+                  "page": 83
+                }
+              ]
+            },
+            {
+              "id": "f6232882-ea8f-4aec-8462-9837fd70f040",
+              "code": "8/1.2/n39",
+              "text": "learners multiply like bases and add the exponents",
+              "page": 83,
+              "children": [
+                {
+                  "id": "ffc8e16a-8411-4a71-bc0d-ddc70fa8b277",
+                  "code": "8/1.2/n40",
+                  "type": "exemplar",
+                  "label": "Example:",
+                  "text": "2⁵ x 2⁷ = 4¹² instead of the correct answer 2¹².",
+                  "page": 83
+                }
+              ]
+            },
+            {
+              "id": "907d9f9a-2072-4168-aab9-975918295b89",
+              "code": "8/1.2/n41",
+              "text": "learners forget, for example, that when squaring a binomial there is a middle term",
+              "page": 83,
+              "children": [
+                {
+                  "id": "b5f2c899-12a9-4ef9-9ae6-0fa07241a763",
+                  "code": "8/1.2/n42",
+                  "type": "exemplar",
+                  "label": "Example:",
+                  "text": "(x + y)ᵐ = xᵐ + yᵐ",
+                  "page": 83,
+                  "eyeChecked": true
+                }
+              ]
+            },
+            {
+              "id": "b1885d79-0442-4cca-962f-0fe4e61bebb3",
+              "code": "8/1.2/n43",
+              "text": "learners confuse adding the exponents and adding the terms",
+              "page": 83,
+              "children": [
+                {
+                  "id": "33f89f12-9836-4255-b634-4274026c20fb",
+                  "code": "8/1.2/n44",
+                  "type": "exemplar",
+                  "label": "Example:",
+                  "text": "xᵐ + xⁿ = xᵐ⁺ⁿ or xᵐⁿ",
+                  "page": 83,
+                  "eyeChecked": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Calculations using numbers in exponential form",
+      "statements": [
+        {
+          "id": "f33696f3-5c70-44d6-8138-0ffabe0e087a",
+          "code": "8/1.2/n45",
+          "text": "Knowing the rules of operations for calculations involving exponents are important, e.g.",
+          "page": 83,
+          "children": [
+            {
+              "id": "e0da27c7-83e6-4dd3-8ffe-117eac622c39",
+              "code": "8/1.2/n46",
+              "type": "exemplar",
+              "text": "a) (7 – 4)³ = 3³ and NOT 7³ – 4³",
+              "page": 83
+            },
+            {
+              "id": "66fb3b0b-2a67-4cb5-8e21-947ac0bc6124",
+              "code": "8/1.2/n47",
+              "type": "exemplar",
+              "text": "b) √(16 + 9) = √25 and NOT the √16 + √9",
+              "page": 83,
+              "eyeChecked": true,
+              "note": "The brackets stand for the root sign's bar, which covers 16 + 9."
+            }
+          ]
+        },
+        {
+          "id": "fb20f894-792a-475c-bd2e-aa7d0e8e4dc3",
+          "code": "8/1.2/n48",
+          "text": "Learners can also do simple calculations where the numerator and denominator of a fraction are written in exponential form, e.g. 2³⁄2² = (2 x 2 x 2)⁄(2 x 2) = 8⁄4 = 2",
+          "page": 83,
+          "eyeChecked": true,
+          "note": "Printed as fractions; the brackets stand for a numerator or denominator of more than one term."
+        },
+        {
+          "id": "1d5988ef-9b5a-447c-90c5-373774a61a17",
+          "code": "8/1.2/n49",
+          "text": "Learners can also find squares, cubes, square roots and cube roots of decimal and common fractions by inspection.",
+          "page": 83,
+          "children": [
+            {
+              "id": "06da4b19-26f7-48c0-91f8-cd60a6e6d423",
+              "code": "8/1.2/n50",
+              "type": "exemplar",
+              "label": "Examples",
+              "text": "a) (0,7)² = 0,49",
+              "page": 83
+            },
+            {
+              "id": "efc09703-8e8a-4f01-9c4d-55745095b4fc",
+              "code": "8/1.2/n51",
+              "type": "exemplar",
+              "label": "Examples",
+              "text": "b) (0,1)³ = 0,001",
+              "page": 83
+            },
+            {
+              "id": "8d90f940-0ba2-45e9-80c8-8d45fcbff384",
+              "code": "8/1.2/n52",
+              "type": "exemplar",
+              "label": "Examples",
+              "text": "c) √0,09 = 0,3",
+              "page": 83
+            },
+            {
+              "id": "bd106b99-0f4b-41c5-be6f-8d310b3bda72",
+              "code": "8/1.2/n53",
+              "type": "exemplar",
+              "label": "Examples",
+              "text": "d) (3⁄4)² = 3²⁄4² = 9⁄16",
+              "page": 83,
+              "eyeChecked": true
+            },
+            {
+              "id": "4d8bd2ab-b269-4fb0-9b61-76e242918818",
+              "code": "8/1.2/n54",
+              "type": "exemplar",
+              "label": "Examples",
+              "text": "e) √(9⁄25) = √9⁄√25 = 3⁄5",
+              "page": 83,
+              "eyeChecked": true,
+              "note": "The brackets stand for the root sign's bar, which covers the fraction."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Scientific notation",
+      "statements": [
+        {
+          "id": "e0d7b5d6-32c5-4342-9f83-ceaad1f6646e",
+          "code": "8/1.2/n55",
+          "text": "When writing numbers in scientific notation, learners have to understand the relationship between the number of decimal places and the index of 10",
+          "page": 84,
+          "children": [
+            {
+              "id": "6a16399d-e1bf-47a5-9a11-c45b40de5fd1",
+              "code": "8/1.2/n56",
+              "type": "exemplar",
+              "label": "Examples:",
+              "text": "a) 25 = 2,5 x 10¹",
+              "page": 84
+            },
+            {
+              "id": "0f05708b-a3a5-45b7-9d6e-1794bb4ba766",
+              "code": "8/1.2/n57",
+              "type": "exemplar",
+              "label": "Examples:",
+              "text": "b) 250 = 2,5 x 10²",
+              "page": 84
+            },
+            {
+              "id": "25e23d89-306b-4535-8828-729e09f589dc",
+              "code": "8/1.2/n58",
+              "type": "exemplar",
+              "label": "Examples:",
+              "text": "c) 2 500 = 2,5 x 10³",
+              "page": 84
+            }
+          ]
+        },
+        {
+          "id": "ee5d06e1-c3d6-4a54-9060-c9ada4643d92",
+          "code": "8/1.2/n59",
+          "text": "Scientific notation limited to positive exponents, includes writing very large numbers in scientific notation.",
+          "page": 84,
+          "children": [
+            {
+              "id": "8dedb2e1-3708-4678-8e93-069e75906431",
+              "code": "8/1.2/n60",
+              "type": "exemplar",
+              "label": "Example:",
+              "text": "25 million = 2,5 x 10⁷",
+              "page": 84
+            }
+          ]
+        },
+        {
+          "id": "abb8de7d-9592-4321-9567-a1a8c35ed9b4",
+          "code": "8/1.2/n61",
+          "text": "Learners practise writing large numbers in scientific notation, they will realize they have encountered these in Natural Science. It is useful to refer to these contexts when talking about scientific notation.",
+          "page": 84
+        }
+      ]
+    }
+  ]
+}

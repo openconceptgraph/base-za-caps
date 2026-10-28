@@ -1,0 +1,31 @@
+{
+  "id": "0c61aaac-04ee-4e88-a7e8-86ba9e4e704d",
+  "slug": "caps-2011",
+  "title": {
+    "en": "CAPS 2011: terms and hours"
+  },
+  "document": "caps-mathematics-senior-phase-2011",
+  "placements": [
+    {
+      "id": "9f7f6988-0a7c-42a4-9604-0bfb38dc56c0",
+      "node": "1.1",
+      "grade": "8",
+      "term": 1,
+      "hours": 6
+    },
+    {
+      "id": "968395d9-62a2-48cf-a115-db28513a263d",
+      "node": "1.3",
+      "grade": "8",
+      "term": 1,
+      "hours": 9
+    },
+    {
+      "id": "916fee1c-3faa-4cf2-947c-7c9cf59a090b",
+      "node": "1.2",
+      "grade": "8",
+      "term": 1,
+      "hours": 9
+    }
+  ]
+}

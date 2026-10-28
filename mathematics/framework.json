@@ -1,1 +1,25 @@
-{ "note": "framework record to be generated from the spec schema" }
+{
+  "id": "ca574374-5cfe-4c48-ae7d-66926ac12f9d",
+  "slug": "za-caps/mathematics",
+  "title": {
+    "en": "CAPS Mathematics"
+  },
+  "jurisdiction": "ZA",
+  "subject": "mathematics",
+  "publisher": "Department of Basic Education",
+  "nodeTypes": [
+    "content-area",
+    "topic"
+  ],
+  "educationLevels": [
+    {
+      "id": "21618d44-6790-4e14-9fef-6fb14823cc68",
+      "code": "8",
+      "title": {
+        "en": "Grade 8"
+      },
+      "iscedLevel": 2,
+      "ordinal": 8
+    }
+  ]
+}

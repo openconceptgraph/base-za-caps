@@ -1,0 +1,435 @@
+{
+  "document": "caps-mathematics-senior-phase-2011",
+  "grade": "8",
+  "term": 1,
+  "topic": "1.3",
+  "pages": [
+    78,
+    79,
+    80
+  ],
+  "furniture": [
+    "Total time for Integers:",
+    "9 hours"
+  ],
+  "concepts": [
+    {
+      "heading": "Counting, ordering and comparing integers",
+      "statements": [
+        {
+          "id": "263345dc-1d65-408f-9671-b3cb6070e69b",
+          "code": "8/1.3/c01",
+          "label": "Revise:",
+          "revise": true,
+          "text": "counting forwards and backwards in integers for any interval",
+          "page": 78
+        },
+        {
+          "id": "6f8cc7da-3d1f-4906-86b3-3628a5bc6d36",
+          "code": "8/1.3/c02",
+          "label": "Revise:",
+          "revise": true,
+          "text": "recognising, ordering and comparing integers",
+          "page": 78
+        }
+      ]
+    },
+    {
+      "heading": "Calculations with integers",
+      "statements": [
+        {
+          "id": "3859d260-644e-4940-ab9d-d928f34d1573",
+          "code": "8/1.3/c03",
+          "revise": true,
+          "text": "Revise addition and subtraction with integers",
+          "page": 78
+        },
+        {
+          "id": "6fa87b4a-c657-4328-9537-c1ed6825e429",
+          "code": "8/1.3/c04",
+          "text": "Multiply and divide with integers",
+          "page": 78
+        },
+        {
+          "id": "3eb8ad22-b0fb-4e05-a979-8742e18bc87f",
+          "code": "8/1.3/c05",
+          "text": "Perform calculations involving all four operations with integers",
+          "page": 78
+        },
+        {
+          "id": "eac0409d-74ce-4199-8bb0-8d29fdcc6091",
+          "code": "8/1.3/c06",
+          "text": "Perform calculations involving all four operations with numbers that involve the squares, cubes, square roots and cube roots of integers",
+          "page": 78
+        }
+      ]
+    },
+    {
+      "heading": "Properties of integers",
+      "statements": [
+        {
+          "id": "1544c808-49d5-4938-9c2c-9144e571b694",
+          "code": "8/1.3/c07",
+          "text": "Recognize and use commutative, associative and distributive properties of addition and multiplication for integers",
+          "page": 80
+        },
+        {
+          "id": "f41a8466-f7b6-4a2b-807e-4fdc67e467b3",
+          "code": "8/1.3/c08",
+          "text": "Recognize and use additive and multiplicative inverses for integers",
+          "page": 80
+        }
+      ]
+    },
+    {
+      "heading": "Solving problems",
+      "statements": [
+        {
+          "id": "6adafeb2-f613-4603-9e4d-341eeda751cc",
+          "code": "8/1.3/c09",
+          "text": "Solve problems in contexts involving multiple operations with integers",
+          "page": 80
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "What is different to Grade 7?",
+      "statements": [
+        {
+          "id": "4b2cc68f-41ee-4ec8-a6de-aa33e2740f8f",
+          "code": "8/1.3/n01",
+          "type": "progression",
+          "text": "Multiply and divide with integers",
+          "page": 78
+        },
+        {
+          "id": "90664f95-3d9a-4ba8-b076-8c04738038d6",
+          "code": "8/1.3/n02",
+          "type": "progression",
+          "text": "All four operations with integers",
+          "page": 78
+        },
+        {
+          "id": "8bb4f477-1113-49ae-84f1-3ce846c66ea6",
+          "code": "8/1.3/n03",
+          "type": "progression",
+          "text": "All four operations with squares, cubes, square and cube roots of integers",
+          "page": 78
+        },
+        {
+          "id": "ec6e93f8-726d-43a2-8da2-67c410494298",
+          "code": "8/1.3/n04",
+          "type": "progression",
+          "text": "In Grade 8 learners consolidate number knowledge and calculation techniques for integers, developed in Grade 7.",
+          "page": 78
+        }
+      ]
+    },
+    {
+      "heading": "Counting, ordering and comparing integers",
+      "statements": [
+        {
+          "id": "cbf8532b-5ab9-41f8-951b-164ba4280129",
+          "code": "8/1.3/n05",
+          "text": "Learners should continue practising counting, ordering and comparing integers. Counting should not only be thought of as verbal counting. Learners can count using:",
+          "page": 78,
+          "children": [
+            {
+              "id": "e0c9f1a3-31e8-4f0c-9f12-8b239269f700",
+              "code": "8/1.3/n06",
+              "text": "structured, semi-structured or empty number lines",
+              "page": 78
+            },
+            {
+              "id": "5adc886d-1af9-416f-9fba-6dd1ff5b2444",
+              "code": "8/1.3/n07",
+              "text": "chain diagrams for counting",
+              "page": 78
+            }
+          ]
+        },
+        {
+          "id": "89743af7-6a5e-4d34-b3ae-8237bc21d779",
+          "code": "8/1.3/n08",
+          "text": "Learners should be given a range of exercises",
+          "page": 78
+        },
+        {
+          "id": "a146aa6f-495d-4383-aed5-8d4bc04bf82d",
+          "code": "8/1.3/n09",
+          "text": "Arrange given numbers from the smallest to the biggest: or biggest to smallest",
+          "page": 78
+        },
+        {
+          "id": "be69f59f-6baf-46b0-ba48-c1aec5529b5c",
+          "code": "8/1.3/n10",
+          "text": "Fill in missing numbers in",
+          "page": 78,
+          "children": [
+            {
+              "id": "97c7d5da-5705-4648-83c0-1b30f895068f",
+              "code": "8/1.3/n11",
+              "text": "a sequence",
+              "page": 78
+            },
+            {
+              "id": "dc9f5534-37ed-412f-b0b1-082d426511f3",
+              "code": "8/1.3/n12",
+              "text": "on a number grid",
+              "page": 78
+            },
+            {
+              "id": "80c3cd0c-b4ed-4012-b2a1-c48a9245f781",
+              "code": "8/1.3/n13",
+              "text": "on a number line",
+              "page": 78
+            },
+            {
+              "id": "33fdfe30-3d89-429a-b84f-dfdd38b915dc",
+              "code": "8/1.3/n14",
+              "text": "fill in <, = or > e.g. – 425 * – 450;",
+              "page": 78,
+              "note": "The * stands for the sign to be filled in."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Calculations using integers",
+      "statements": [
+        {
+          "id": "8c6a1309-3d92-460c-aec9-63c7b4c1e7f1",
+          "code": "8/1.3/n15",
+          "text": "Start calculations with integers using small number ranges.",
+          "page": 78
+        },
+        {
+          "id": "423083ba-0861-486a-a6f1-785e8c38add4",
+          "code": "8/1.3/n16",
+          "text": "Develop an understanding that subtracting an integer is the same as adding its additive inverse.",
+          "page": 78,
+          "children": [
+            {
+              "id": "59de124d-4b1d-4223-bd16-d3dc6f0e8887",
+              "code": "8/1.3/n17",
+              "type": "exemplar",
+              "label": "Example:",
+              "text": "7 – 4 = 7 + (– 4) = 3 OR –7 – 4 = –7 + (–4) = –11",
+              "page": 78
+            },
+            {
+              "id": "152cd69d-b261-4ec3-9583-a5c94339ec54",
+              "code": "8/1.3/n18",
+              "type": "exemplar",
+              "label": "Example:",
+              "text": "So too, 7 – (– 4) = 7 + (+4) = 11 OR –7 – (– 4) = –7 + (+ 4) = – 3. Here the use of brackets around the integers are useful.",
+              "page": 78
+            }
+          ]
+        },
+        {
+          "id": "39303f14-8c85-42b3-9e02-9f074cca2b4e",
+          "code": "8/1.3/n19",
+          "text": "A useful strategy is to use repeated addition and number patterns to show learners the reasonableness of rules for the resultant sign for multiplication with integers.",
+          "page": 78,
+          "children": [
+            {
+              "id": "3cffe5e7-0a80-4243-b95e-a8b8802f5b25",
+              "code": "8/1.3/n20",
+              "type": "exemplar",
+              "label": "Example:",
+              "text": "a) Repeated addition of (–3): (–3) + (–3) + (–3) = –9 = 3 x (–3)",
+              "page": 79
+            },
+            {
+              "id": "85e8f7a9-5284-4fb3-8864-5fdec3817168",
+              "code": "8/1.3/n21",
+              "type": "exemplar",
+              "label": "Example:",
+              "text": "b) Repeated addition of (–2): (–2) + (–2) + (–2) + (–2) = –8 = 4 x (–2)",
+              "page": 79
+            },
+            {
+              "id": "15743ef9-b2eb-4e7b-974c-6e18617d2e11",
+              "code": "8/1.3/n22",
+              "type": "exemplar",
+              "label": "Example:",
+              "text": "c) Counting down in intervals of 3 from 9:\n3 x 3 = 9\n3 x 2 = 6\n3 x 1 = 3\n3 x 0 = 0\n3 x –1 = –3\n3 x –2 = ?\n3 x –3 = ?\nHence the rule: a positive integer x a negative integer = a negative integer",
+              "page": 79
+            },
+            {
+              "id": "f9973ab3-d68d-48f1-bd0f-a348467b4369",
+              "code": "8/1.3/n23",
+              "type": "exemplar",
+              "label": "Example:",
+              "text": "d) Using the rule that a positive integer x a negative integer = a negative integer, established from examples above, the following pattern can be used:\n–1 x 3 = –3\n–1 x 2 = –2\n–1 x 1 = –1\n–1 x 0 = 0\n–1 x –1 = 1\n–1 x –2 = ?\n–1 x –3 = ?\nHence the rule: a negative integer x a negative integer = a positive integer",
+              "page": 79
+            }
+          ]
+        },
+        {
+          "id": "1f847f9c-db26-41b1-b904-74804920ab3c",
+          "code": "8/1.3/n24",
+          "text": "Use the inverse operation for multiplication and division to develop a rule for the resultant sign for division with integers.",
+          "page": 79,
+          "children": [
+            {
+              "id": "1900c7aa-4a18-4772-82d1-1d8b0ebda47f",
+              "code": "8/1.3/n25",
+              "type": "exemplar",
+              "label": "Example:",
+              "text": "a) If 4 x (–2) = –8, then –8 ÷ 4 = –2 and –8 ÷ (–2) = 4",
+              "page": 79
+            },
+            {
+              "id": "81cca32b-6a15-4ed3-9dd2-3ed1071bf80d",
+              "code": "8/1.3/n26",
+              "type": "exemplar",
+              "label": "Example:",
+              "text": "b) If (–1) x (–3) = 3, then 3 ÷ (–1) = –3 and 3 ÷ (–3) = –1",
+              "page": 79
+            },
+            {
+              "id": "4fb1c12b-8875-402d-8d83-f24f5ad1c1f1",
+              "code": "8/1.3/n27",
+              "text": "Hence the rules: division of a positive and negative integer equals a negative integer and division of two negative integers equal a positive integer.",
+              "page": 79
+            }
+          ]
+        },
+        {
+          "id": "12a835db-e07e-4f92-b0ac-2c16674dc5e6",
+          "code": "8/1.3/n28",
+          "text": "Finding the squares, cubes, square roots and cube roots of integers are also opportunities to check that learners know the rules for resultant signs when multiplying integers.",
+          "page": 80
+        },
+        {
+          "id": "d30e3981-d9e4-47d9-aace-854fb68e7b7b",
+          "code": "8/1.3/n29",
+          "text": "Therefore, make sure that learners understand why you cannot find the square root of a negative integer, and that the square of a negative integer is always positive.",
+          "page": 80,
+          "children": [
+            {
+              "id": "d2f61e18-299c-4187-9731-153e9208c32a",
+              "code": "8/1.3/n30",
+              "type": "exemplar",
+              "label": "Example:",
+              "text": "a) (–5)² = (–5) x (–5) = 25",
+              "page": 80
+            },
+            {
+              "id": "022f6abb-b8fc-4654-8eaa-0795ee7cda2c",
+              "code": "8/1.3/n31",
+              "type": "exemplar",
+              "label": "Example:",
+              "text": "b) (–4)³ = (–4) x (–4) x (–4) = –64",
+              "page": 80
+            },
+            {
+              "id": "36b18f7d-4954-4cd5-8993-1d2c96e000af",
+              "code": "8/1.3/n32",
+              "type": "exemplar",
+              "label": "Example:",
+              "text": "c) ∛–27 = –3 because –3 x –3 x–3 = –27",
+              "page": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Properties of integers",
+      "statements": [
+        {
+          "id": "e1ea07f2-7f93-4027-8d9f-18d7ca4fc365",
+          "code": "8/1.3/n33",
+          "text": "Learners should investigate the properties for operations with whole numbers on the set of integers.",
+          "page": 80
+        },
+        {
+          "id": "d0024930-e4f2-4dd6-8628-857059412f29",
+          "code": "8/1.3/n34",
+          "text": "These properties should serve as motivation for the operations they can perform with integers.",
+          "page": 80
+        },
+        {
+          "id": "68e71cca-b8a3-4a2b-b1fc-51870497d9da",
+          "code": "8/1.3/n35",
+          "text": "Learners should see that the commutative property for addition and multiplication holds for integers, e.g.\n8 + (–3) = (–3) + 8 = 5; 8 x (–3) = (–3) x 8 = –24",
+          "page": 80
+        },
+        {
+          "id": "6fe17a96-1fd2-4069-86f0-2902d3029b1a",
+          "code": "8/1.3/n36",
+          "text": "Learners should see that they can still use subtraction to check addition or vice versa, e.g. if 8 + (–3) = 5, then 5 – 8 = –3 and 5 –(–3) = 8",
+          "page": 80
+        },
+        {
+          "id": "31c070d0-c1e2-4e19-b0af-7fc8675c67d6",
+          "code": "8/1.3/n37",
+          "text": "Learners should see that the associative property for addition holds for integers, e.g. [(–6) + 4] + (–1) = (–6) + [4 + (–1)] = –3",
+          "page": 80
+        },
+        {
+          "id": "17b3dc6d-d44e-4b69-acec-381ef1a64e1f",
+          "code": "8/1.3/n38",
+          "text": "Learners should see that the inverse operation for multiplication and division holds for integers, e.g. if 5 x (–6) = –30, then –30 ÷ 5 = –6 and –30 ÷ (–6) = 5",
+          "page": 80
+        },
+        {
+          "id": "e6f55aef-1465-4d1c-a259-0dfe2fa0fa45",
+          "code": "8/1.3/n39",
+          "text": "Learners should develop the rules, through patterning, for resultant signs when multiplying and dividing integers:",
+          "page": 80,
+          "children": [
+            {
+              "id": "41c7cd5e-6386-435f-b699-c3a2eb19f868",
+              "code": "8/1.3/n40",
+              "type": "exemplar",
+              "text": "(+5) x (+5) = (+25);",
+              "page": 80
+            },
+            {
+              "id": "8a20b775-2044-4420-b4bd-c6064814b0f5",
+              "code": "8/1.3/n41",
+              "type": "exemplar",
+              "text": "(–5) x (–5) = (+25);",
+              "page": 80
+            },
+            {
+              "id": "f9949d3e-01a0-40d3-938f-6f80886d0f90",
+              "code": "8/1.3/n42",
+              "type": "exemplar",
+              "text": "(–5) x (+5) = (–25);",
+              "page": 80
+            },
+            {
+              "id": "743c0c56-6f59-43c7-b8e8-6a2b67463fff",
+              "code": "8/1.3/n43",
+              "type": "exemplar",
+              "text": "(+25) ÷ (+5) = (+5);",
+              "page": 80
+            },
+            {
+              "id": "7d9758cb-8029-4a16-9349-ead06e33dd28",
+              "code": "8/1.3/n44",
+              "type": "exemplar",
+              "text": "(–25) ÷ (–5) = (+5);",
+              "page": 80
+            },
+            {
+              "id": "d67af249-ac62-4ece-ba64-48e6be720dc0",
+              "code": "8/1.3/n45",
+              "type": "exemplar",
+              "text": "(–25) ÷ (+5) = (–5);",
+              "page": 80
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
