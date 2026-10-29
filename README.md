@@ -16,6 +16,7 @@ Two layers, kept apart:
 ```
 mathematics/
   framework.json                  the framework and its grades
+  release.json                    release settings: title, licence, credit lines, review policy
   documents/<document>.json       an official document, its headings and the PDF it was checked against
   teaching-plans/<plan>.json      a teaching plan and its placements
   statements/grade-8/<topic>.json one topic's statements for one grade, in the document's order
@@ -30,8 +31,14 @@ A teaching plan's placements are terms, weeks and hours, checked by eye against 
 The platform's pipeline checks every statement against the PDF and loads the transcription into its working database:
 
 ```sh
-pnpm base check ../base-za-caps/mathematics --pdf <CAPS Mathematics Grades 7-9 PDF>
+pnpm base check ../base-za-caps/mathematics --pdf <CAPS Mathematics Grades 7-9 PDF> --record
 pnpm base import ../base-za-caps/mathematics
+```
+
+A release is built from the working database to the [specification](https://github.com/openconceptgraph/spec)'s layout and checked with its validator. It holds the whole transcription and only the interpretation two reviewers have confirmed (`release.json`'s review policy):
+
+```sh
+pnpm base release ../base-za-caps/mathematics --version 0.1.0 --out <folder>
 ```
 
 ## Licence and attribution

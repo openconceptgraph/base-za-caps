@@ -1,0 +1,16 @@
+{
+  "title": {
+    "en": "OpenConceptGraph: CAPS Mathematics"
+  },
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "attribution": [
+    "OpenConceptGraph: CAPS Mathematics (https://github.com/openconceptgraph/base-za-caps), licensed under CC BY 4.0.",
+    "Curriculum statements quoted from CAPS, and teaching plan terms, weeks and hours from the 2026 Annual Teaching Plans, © Department of Basic Education."
+  ],
+  "reviewPolicy": {
+    "minReviewers": 2
+  }
+}
