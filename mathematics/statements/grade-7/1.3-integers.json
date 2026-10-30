@@ -1,0 +1,242 @@
+{
+  "document": "caps-mathematics-senior-phase-2011",
+  "grade": "7",
+  "term": 4,
+  "topic": "1.3",
+  "pages": [
+    67,
+    68
+  ],
+  "regions": [
+    {
+      "page": 68,
+      "x": 0,
+      "y": 40,
+      "width": 126,
+      "height": 750
+    }
+  ],
+  "furniture": [
+    "GRADE 7 – TERM 4",
+    "9 hours"
+  ],
+  "concepts": [
+    {
+      "heading": "Counting, ordering and comparing integers",
+      "statements": [
+        {
+          "id": "dcdb3e1d-7ce2-4154-9b06-1a8c4bfac532",
+          "code": "7/1.3/c01",
+          "text": "Count forwards and backwards in integers for any interval",
+          "page": 67
+        },
+        {
+          "id": "509e2458-d177-4a88-aa67-50db517ce999",
+          "code": "7/1.3/c02",
+          "text": "Recognize, order and compare integers",
+          "page": 67
+        }
+      ]
+    },
+    {
+      "heading": "Calculations with integers",
+      "statements": [
+        {
+          "id": "7bd37b3b-2344-4277-8ab3-eb49a4b817e9",
+          "code": "7/1.3/c03",
+          "text": "Add and subtract with integers",
+          "page": 67
+        }
+      ]
+    },
+    {
+      "heading": "Properties of integers",
+      "statements": [
+        {
+          "id": "95d2af3a-f07b-4ff8-9984-be7cfb2ab2f2",
+          "code": "7/1.3/c04",
+          "text": "Recognize and use commutative and associative properties of addition and multiplication for integers",
+          "page": 67
+        }
+      ]
+    },
+    {
+      "heading": "Solving problems",
+      "statements": [
+        {
+          "id": "b06883ef-ebc7-44c6-83c9-fbb8a8d45d41",
+          "code": "7/1.3/c05",
+          "text": "Solve problems in contexts involving addition and subtraction of integers",
+          "page": 67
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "What is different to Grade 6?",
+      "statements": [
+        {
+          "id": "f0321eeb-7f95-45cf-9d03-cd4b89c87995",
+          "code": "7/1.3/n01",
+          "type": "progression",
+          "text": "Integers are new numbers introduced in Grade 7.",
+          "page": 67
+        }
+      ]
+    },
+    {
+      "heading": "Counting, ordering and comparing integers",
+      "statements": [
+        {
+          "id": "f5be166e-2f0e-4e77-af8d-7fb23ae6be4a",
+          "code": "7/1.3/n02",
+          "text": "Counting should not only be thought of as verbal counting. Learners can count using:",
+          "page": 67,
+          "children": [
+            {
+              "id": "d85f44b1-e1b3-44d3-b476-d40dc020a8ee",
+              "code": "7/1.3/n03",
+              "text": "structured, semi-structured or empty number lines",
+              "page": 67
+            },
+            {
+              "id": "ef641726-e47f-4553-b298-253e42af6c17",
+              "code": "7/1.3/n04",
+              "text": "chain diagrams for counting",
+              "page": 67
+            }
+          ]
+        },
+        {
+          "id": "2407f041-f783-4d39-a180-9f2d6bb132ce",
+          "code": "7/1.3/n05",
+          "text": "Learners should be given a range of exercises such as:",
+          "page": 67,
+          "children": [
+            {
+              "id": "19f7a7c9-da20-47ab-8baa-a54e39666702",
+              "code": "7/1.3/n06",
+              "text": "arrange given numbers from the smallest to the biggest: or biggest to smallest",
+              "page": 67
+            },
+            {
+              "id": "fbabcf30-5aba-4260-83dd-732be035b2ed",
+              "code": "7/1.3/n07",
+              "text": "fill in missing numbers in",
+              "page": 67,
+              "children": [
+                {
+                  "id": "812370c1-7d8e-4ed2-8188-2e676ccafa84",
+                  "code": "7/1.3/n08",
+                  "text": "a sequence",
+                  "page": 67
+                },
+                {
+                  "id": "e43d5445-414e-4fa5-b0d1-2638d3df028b",
+                  "code": "7/1.3/n09",
+                  "text": "on a number grid",
+                  "page": 67
+                },
+                {
+                  "id": "61b94d19-878a-4386-9107-09127f6f03dc",
+                  "code": "7/1.3/n10",
+                  "text": "on a number line",
+                  "page": 67
+                },
+                {
+                  "id": "70d165ae-556a-4a72-9a74-4283c13dd217",
+                  "code": "7/1.3/n11",
+                  "text": "fill in <, = or > Example: – 425 * – 450",
+                  "page": 67,
+                  "note": "The * stands for the sign to be filled in."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Calculations using integers",
+      "statements": [
+        {
+          "id": "8c0963ae-2150-493b-b7f4-cd8d2b77c0e0",
+          "code": "7/1.3/n12",
+          "text": "Start calculations using integers in small number ranges.",
+          "page": 67
+        },
+        {
+          "id": "0b36512c-c3bc-4df4-8d19-31f3f0f64233",
+          "code": "7/1.3/n13",
+          "text": "Develop an understanding that subtracting an integer is the same as adding its additive inverse.",
+          "page": 67
+        },
+        {
+          "id": "406aa88b-e85a-452e-b0c8-27b31873d0f9",
+          "code": "7/1.3/n14",
+          "type": "exemplar",
+          "label": "Example:",
+          "text": "7 – 4 = 7 + (– 4) = 3 OR –7 – 4 = –7 + (– 4) = –11",
+          "page": 67
+        },
+        {
+          "id": "b74bd2a9-5248-4bda-968f-c4b181176f4f",
+          "code": "7/1.3/n15",
+          "type": "exemplar",
+          "label": "Example:",
+          "text": "So too, 7 – (– 4) = 7 + (+4) = 11 OR –7 – (– 4) = –7 + (+4) = –3",
+          "page": 67
+        },
+        {
+          "id": "7b09b9bf-814d-49ab-9ce7-fd722706e3e8",
+          "code": "7/1.3/n16",
+          "label": "Example:",
+          "text": "Here the use of brackets around the integers are useful.",
+          "page": 67
+        }
+      ]
+    },
+    {
+      "heading": "Properties of integers",
+      "statements": [
+        {
+          "id": "0da6bdfb-96b3-4d7f-a6bb-2fa4eb401c46",
+          "code": "7/1.3/n17",
+          "text": "Learners should investigate the properties for operations using whole numbers on the set of integers.",
+          "page": 67
+        },
+        {
+          "id": "876af36e-4d8a-42f4-a5f6-af87befff085",
+          "code": "7/1.3/n18",
+          "text": "These properties should serve as motivation for the operations they can perform using integers.",
+          "page": 67
+        },
+        {
+          "id": "1810f97d-bc3c-41dc-8671-7f1a8f42cfbe",
+          "code": "7/1.3/n19",
+          "text": "Learners should see that the commutative property for addition holds for integers e.g 8 + (–3) = (–3) + 8 = 5",
+          "page": 67
+        },
+        {
+          "id": "d2bccab4-c4db-4bf1-8b1d-4d9fcdb618e0",
+          "code": "7/1.3/n20",
+          "text": "Learners should see that they can still use subtraction to check addition or vice versa. Example: If 8 + (–3) = 5, then 5 – 8 = – 3 and 5 –(–3) = 8",
+          "page": 67
+        },
+        {
+          "id": "0f737a7b-80ba-4c21-b71b-3044e0c4f775",
+          "code": "7/1.3/n21",
+          "text": "Learners should see that the associative property for addition holds for integers. Example: [(–6) + 4] + (–1) = (–6) + [4 + (–1)] = –3",
+          "page": 68
+        },
+        {
+          "id": "9b2a3f06-8f49-4466-8955-6d8e479432a8",
+          "code": "7/1.3/n22",
+          "text": "Learners should only explore the distributive property once they can multiply with integers",
+          "page": 68
+        }
+      ]
+    }
+  ]
+}

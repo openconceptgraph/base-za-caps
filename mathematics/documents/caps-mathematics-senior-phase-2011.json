@@ -18,7 +18,9 @@
     "TOPICS",
     "CONCEPTS and SKILLS",
     "SOME CLARIFICATION NOTES or TEACHING GUIDELINES",
-    "DURATION (in hours)"
+    "DURATION (in hours)",
+    "CONCEPTS AND SKILLS",
+    "SOME CLARIFICATION NOTES OR TEACHING GUIDELINES"
   ],
   "nodes": [
     {
